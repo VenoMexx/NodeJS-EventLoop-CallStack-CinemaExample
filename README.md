@@ -20,3 +20,8 @@ Bu repo, Node.js kullanarak Event Loop ve Call Stack mekanizmalarını anlamak i
 
 ```bash
 git clone https://github.com/your-username/NodeJS-EventLoop-CallStack-CinemaExample.git
+```
+Kodu çalıştırın:
+
+```bash
+node cinemaExample.js
